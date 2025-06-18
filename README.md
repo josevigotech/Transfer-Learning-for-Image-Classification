@@ -27,8 +27,6 @@ This project uses transfer learning with a pretrained MobileNetV2 to extract fea
 - Matplotlib  
 - Numpy  
 
-## Author
 
-Jose M Vigo
 
 
